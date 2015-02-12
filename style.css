@@ -1,0 +1,25 @@
+<style>
+* {
+  font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif;
+}
+
+.table {
+    max-width: 900px;
+    margin: 20px;
+    border: 1px solid #CCC;
+    border-radius: 5px;
+}
+
+.table > .head {
+    background-color: #EEE;
+    font-weight: bold;
+    padding: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.table > .body {
+    padding: 20px;
+}
+
+</style>
